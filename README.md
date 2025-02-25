@@ -1,6 +1,6 @@
 # Bill Splitter App 💸
 
-A simple and intuitive React application designed to make splitting bills with friends hassle-free. Easily track who owes whom, share expenses, and manage balances.
+A simple and intuitive React application designed to make splitting bills. Easily track who owes whom, share expenses, and manage balances.
 
 ## Key Features
 
@@ -9,17 +9,6 @@ A simple and intuitive React application designed to make splitting bills with f
 - **Dynamic Balances:** Automatically update and display balances after each bill is split.
 - **Interactive Design:** Enjoy a clean, responsive UI built with reusable React components.
 
-## Getting Started
-
-1. Install dependencies:
-   ```bash
-   npm install
-   ```
-2. Start the app:
-   ```bash
-   npm start
-   ```
-
 ## About the Project
 
-This project was built using **Create React App** for simplicity, as it's a small-scale project.
+This project was built using **Create React App** for simplicity, as it's a small-scale React project. The focus is on Prop passing logic and reusable components.
